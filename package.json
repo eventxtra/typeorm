@@ -12,6 +12,9 @@
   "engines": {
     "node": ">= 12.9.0"
   },
+  "files": [
+    "build/**/*"
+  ],
   "exports": {
     ".": {
       "types": "./index.d.ts",
