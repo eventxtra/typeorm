@@ -30,6 +30,7 @@
       "types": "./index.d.ts",
       "default": "./browser/index.js"
     },
+    "./package.json": "./package.json",
     "./*.js": "./*.js",
     "./*": {
       "require": "./*.js",
